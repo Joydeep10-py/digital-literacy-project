@@ -47,7 +47,7 @@ As a newly selected **Student Digital Ambassador**, my mission is to guide my pe
 ## 📁 Repository Structure
 > This repository is organized to ensure easy navigation for faculty and peers.
 
-* 📂 **report/** — Contains the full `Project_Report.pdf`.
+* 📂 **project-report/** — Contains the full `Project_Report.pdf`.
 * 📂 **task-1-presentation/** — Visual infographic assets.
 * 📂 **task-2-portfolio/** — Professional profile documentation.
 * 📂 **task-3-platforms/** — Skill badges and quiz responses.
